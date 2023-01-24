@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yonas Sisay, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Yonas Sisay,  full-stack  developer🚀</div>  
   
 
 - 🔭 I’m currently  studying and doing some personal web projects  
