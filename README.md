@@ -9,7 +9,7 @@
 - 🔭 I’m currently  studying and doing some personal web projects  
   
 
-- 🌱 I’m currently learning  Data structure and Algorithm's  
+- 🌱  learning   Data structure and Algorithm  by solving problems
   
 
 <br/>  
