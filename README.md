@@ -6,10 +6,7 @@
 ### <div align="center">I'm Yonas Sisay,  full-stack  developer🚀</div>  
   
 
-- 🔭 I’m currently  studying and doing some personal web projects  
-  
 
-- 🌱  learning   Data structure and Algorithm  by solving problems
   
 
 <br/>  
